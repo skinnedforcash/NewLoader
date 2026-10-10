@@ -1,1 +1,28 @@
-
+{
+  "games": [
+    {
+      "id": "fallen_survival",
+      "name": "Fallen Survival",
+      "short": "FS",
+      "status": "available",
+      "version": "nightly",
+      "updated": "October 10th, 11:29pm",
+      "expires": "lifetime",
+      "changelog": [
+        { "type": "+", "text": "Released V4" }
+      ]
+    },
+    {
+      "id": "project_delta",
+      "name": "Project Delta",
+      "short": "PD",
+      "status": "available",
+      "version": "nightly",
+      "updated": "October 10th, 11:29pm",
+      "expires": "lifetime",
+      "changelog": [
+        { "type": "+", "text": "Released V4" }
+      ]
+    }
+  ]
+}
